@@ -5,7 +5,7 @@
 int main (void)
 {
 int a,b,c;
-a = 39;
+a = 391;
 b = 44;
 //c = 5;
 printf( "The minimum of value is %d\n", MIN(a,b) );
